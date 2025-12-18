@@ -15,6 +15,9 @@ This is a simple **C program** that converts a student's grade from the percenta
 - Displays the result directly in the terminal.
 
 ---
+## ▶️ Program Run (Screenshot):
+![Program Run](Run2.png)
+
 
 ## 🛠️ How to Compile and Run
 
